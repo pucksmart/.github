@@ -1,12 +1,5 @@
-## Hi there 👋
+## A Hockey Analytics Project
 
-<!--
+Pucksmart is the home for my hockey analytics exploration. Initially I will be exploringthe feasibility of a couple different Elo-like rating systems, one for players, and one for faceoff takers.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+I'm currently in the data engineering stage, I am gathering the required information from the public sources available through the NHL.com website.
